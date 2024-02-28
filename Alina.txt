@@ -1,8 +1,1 @@
-
-
-
-
-copy con Alina.txt
-cd Desktop/UP21
-cd Desktop/UP21
-
+Виконала студентка Аліна Лучицька УП-21
